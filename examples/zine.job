@@ -1,0 +1,15 @@
+# Field Notes zine: 24 pages, saddle-stitched, printed two-up on A3.
+title = Field Notes
+trim = A5                # 148 x 210 mm final size; also accepts "148 x 210 mm"
+sheet = A3               # printed sheet before folding
+pages = 22               # padded to 24 with two blank pages
+binding = saddle
+copies = 100
+bleed = 3 mm
+margin = 10 mm
+gap = 5 mm
+sheet_cost = 0.14        # paper and ink per printed sheet
+setup_cost = 30          # plates and make-ready
+bind_cost = 0.20         # stapling and folding per copy
+spoilage = 5 %           # extra sheets for misprints
+caliper = 0.10 mm        # paper thickness per leaf
